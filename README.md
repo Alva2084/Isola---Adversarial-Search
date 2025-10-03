@@ -31,3 +31,6 @@ The experiment runner outputs per-game results and overall summaries:
 -Wins and losses per player.
 -Average moves per game.
 -Comparative performance of heuristics Jerry vs Casey
+
+Future Work
+Fix the tests to make it cleaner and more optimal. There had been some issues when creating tests.
